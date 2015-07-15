@@ -1,6 +1,5 @@
 {
   "name": "isomorphic-demo",
-  "version": "0.1",
   "description": "An isomorphic React app boilerplate",
   "main": "lib/server/server.js",
   "scripts": {
